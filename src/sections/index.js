@@ -3,7 +3,6 @@ import AboutUs from "./AboutUs";
 import CallToAction from "./CallToAction";
 import Footer from "./Footer";
 import Icons from "./Icons";
-import Nav from "./Nav";
 import Promises from "./Promises";
 import Reviews from "./Reviews";
 // import { library } from '@fortawesome/fontawesome-svg-core'
@@ -17,7 +16,6 @@ export {
     CallToAction,
     Footer,
     Icons,
-    Nav,
     Promises,
     Reviews
 }

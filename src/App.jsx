@@ -14,10 +14,10 @@ const App = () => {
       <section className="padding">
         <AboutUs/>
       </section>
-      <section className="padding">
+      <section className="padding-full">
         <CallToAction/>
       </section>
-      <section className="padding">
+      <section className="padding bg-gray-50">
         <Reviews/>
       </section>
       <section className="padding">

@@ -1,13 +1,11 @@
 import { heroImg } from "../assets/images"
 import { arrowRight } from "../assets/icons"
 import Button from "../components/Button"
-// w-full flex xl:flex-row flex-col justify-center min-h-screen  p-2 gap-10 max-container
 
 const Hero = () => {
   return (
-    <section id="home" className="w-full flex xl:flex-row flex-col justify-center min-h-screen  p-2 gap-10 max-container">
-
-      <div className="relative xl-w-2/5 flex flex-col justify-center items-center text-center w-full max-xl:padding-x max-sm:mt-[70px] bg-[../assets/images/group-dog-walking-scaled.jpg]">
+    <section id="home" className="w-full flex xl:flex-row flex-col justify-center min-h-screen p-2 gap-11 max-container">
+      <div className="relative xl-w-2/5 flex flex-col justify-center items-center text-center w-full max-xl:padding-x">
         <p className="text-xl font-bold font-montserrat text-earth-green">Kitchener & Waterloo</p>
         <h1 className="text-6xl font-bold font-roboto my-6 max-sm:text-[30px] max-md:text-[40px] max-lg:text-[50px]
         ">

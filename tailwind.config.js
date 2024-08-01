@@ -17,6 +17,7 @@ module.exports = {
         "earth-green": "#5cb464",
         "slate-gray": "#6D6D6D",
         "dark-earth-green": "#043404",
+        "earth-brown": "#af845f",
       },
     },
     
